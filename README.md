@@ -1,74 +1,87 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Dinesh+Bajgain;AI+Enthusiast+%7C+Passionate+Developer+%7C+Chill+Guy" alt="Typing SVG" /></a>
+</p>
+
 <div align="center">
-
-# Hey there, It's Mr.Bajgain! 👋
-
-### 🚀 Aspiring AI Engineer | Web Developer | Tech Enthusiast
-
+  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Mr-Bajgain)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mr-bajgain)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Mr_Bajgain)
+  [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dinesh.bazgain@gmail.com)
+  
 </div>
 
-### 🌟 About Me
-- 🎓 **Bachelor's in Computer Application** (Currently Studying)
-- 💻 Passionate about **AI, Machine Learning, and Web Development**
-- 🤖 Currently **Whipping up some AI innovation**
-- 🌱 Learning **Deep Learning, NLP, and AI from scratch**
-- 🎯 Goal: **To become an AI expert and dominate the tech world**
-- 🇳🇵 From **Nepal**, currently staying in **Lalitpur**
-- 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/mr-bajgain) | [Twitter](https://x.com/Mr_Bajgain) | [Email](mailto:dinesh.bazgain@gmail.com)
+---
+
+<table>
+  <tr>
+    <td width="60%" style="border:none;">
+      
+#### 🚀 About Me
+- 🎓 Pursuing **Bachelor's in Computer Application**
+- 💻 Passionate about **AI, Machine Learning & Web Development**
+- 🤖 Currently **Building AI-powered applications**
+- 🌱 Learning **Deep Learning & NLP**
+- 🎯 Goal: **Become an AI Expert**
+- 🇳🇵 From **Nepal** (Lalitpur)
+      
+  </td>
+    <td width="40%" style="border:none;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAxNDN2YnVoaXB4ZW5iM3dwZTlwc2o3NzU2Y2dsczZhbmxmbWd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" alt="AI GIF" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 ### 🛠️ Tech Stack
 
-<table style="height: 250px; border-collapse: collapse; margin: 0; padding: 0;">
-  <tr>
-    <td width="60%" style="vertical-align: middle; border: none; height: 100%; padding: 0;">
-      <table style="border: none; height: 100%; width: 100%; margin: 0; padding: 5px;">
-        <tr style="height: 20%;">
-          <td style="padding: 2px 0;"><b>Programming Languages</b></td>
-          <td style="padding: 2px;">
-            <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-          </td>
-        </tr>
-        <tr style="height: 20%;">
-          <td style="padding: 2px 0;"><b>Frontend</b></td>
-          <td style="padding: 2px 0;">
-            <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-            <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
-          </td>
-        </tr>
-        <tr style="height: 20%;">
-          <td style="padding: 2px 0;"><b>Backend</b></td>
-          <td style="padding: 2px 0;">
-            <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
-          </td>
-        </tr>
-        <tr style="height: 20%;">
-          <td style="padding: 2px 0;"><b>Database</b></td>
-          <td style="padding: 2px 0;">
-            <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-          </td>
-        </tr>
-        <tr style="height: 20%;">
-          <td style="padding: 2px 0;"><b>Tools & Platforms</b></td>
-          <td style="padding: 2px 0;">
-            <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-            <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-            <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-            <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-          </td>
-        </tr>
-      </table>
-    </td>
-
-  <td width="40%" style="vertical-align: middle; border: none; height: 100%; padding: 0;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g0bG5vOTFlMnJjbGxyOGlhM3EwNGszOGZib3dpbGxzNzVncXBsdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRVM7bxdn7yEFWTN6i/giphy.gif" alt="Coding GIF">
-    </td>
-  </tr>
-
-</table>
+<div style="text-align: center; margin: 0 auto; width: 80%;">
+  <div style="height: 20%; padding: 5px;">
+    <b>Programming Languages: </b>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="padding: 5px;" />
+  </div>
+  
+  <div style="height: 20%; padding: 5px;">
+    <b>Frontend: </b>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" style="padding: 5px;" />
+  </div>
+  
+  <div style="height: 20%; padding: 5px;">
+    <b>Backend: </b>
+    <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" style="padding: 5px;" />
+  </div>
+  
+  <div style="height: 20%; padding: 5px;">
+    <b>Database: </b>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="padding: 5px;" />
+  </div>
+  
+  <div style="height: 20%; padding: 5px;">
+    <b>Tools & Platforms: </b>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" style="padding: 5px;" />
+  </div>
+  
+  <div style="height: 20%; padding: 5px;">
+    <b>AI Libraries: </b>
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Keras-FF3C00?style=flat&logo=keras&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Scipy-8CA0FF?style=flat&logo=scipy&logoColor=white" style="padding: 5px;" />
+  </div>
+</div>
 
 ---
 
