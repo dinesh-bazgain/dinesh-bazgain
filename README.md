@@ -81,15 +81,16 @@
 
 ### 💊 GitHub Stats
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-bazgain&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" width="320"/>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px; color: white;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-bazgain&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" width="350"/>
 
-  <a href="https://git.io/streak-stats" style="text-decoration: none; outline: none;">
+  <a href="https://git.io/streak-stats" style="text-decoration: none; outline: none; color: white;">
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=dinesh-bazgain&theme=shadow_red&hide_border=false&card_width=350" alt="GitHub Streak"/>
   </a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-bazgain&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="280"/>
 </div>
+
 
 
 ---
