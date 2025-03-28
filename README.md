@@ -80,11 +80,17 @@
 <div align="center">
 
 ### 💊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-bazgain&show_icons=true&theme=dark&border_color=#f94141&border_radius=10" width="400"/>
-  <img src="https://streak-stats.demolab.com/?user=dinesh-bazgain&theme=dark&border=#f94141&border_radius=10" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-bazgain&layout=compact&theme=dark&border_color=#f94141&border_radius=10" width="350"/>
+
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-bazgain&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" width="320"/>
+
+  <a href="https://git.io/streak-stats" style="text-decoration: none; outline: none;">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=dinesh-bazgain&theme=shadow_red&hide_border=false&card_width=350" alt="GitHub Streak"/>
+  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-bazgain&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="280"/>
 </div>
+
 
 ---
 
