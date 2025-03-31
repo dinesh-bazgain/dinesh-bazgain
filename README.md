@@ -126,4 +126,12 @@
 </div>
 
 <h5>💡 "Building AI for the future, one project at a time!" 🚀</h5>
+
+---
+
+### 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=DineshBajgain&color=red&size=30)
+
+
 </div>
+
