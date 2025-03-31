@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td width="50%" style="border:none;">
+    <td width="55%" style="border:none;">
       
 #### 🚀 About Me
 - 🎓 Pursuing **Bachelor's in Computer Application**
@@ -26,7 +26,7 @@
 - 🇳🇵 From **Nepal** (Lalitpur)
       
   </td>
-    <td width="50%" style="border:none;">
+    <td width="45%" style="border:none;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRlNHkzdnl5aGpldmxjajJrYW5pZjhtY3QyY2JoMHhuNXJjM3RueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iOFZR9VjYhssM/giphy.gif" alt="AI GIF" width="100%" height="300px" padding="0" margin="0">
     </td>
   </tr>
