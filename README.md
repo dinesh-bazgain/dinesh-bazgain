@@ -15,19 +15,19 @@
 
 <table>
   <tr>
-    <td width="60%" style="border:none;">
+    <td width="50%" style="border:none;">
       
 #### 🚀 About Me
 - 🎓 Pursuing **Bachelor's in Computer Application**
-- 💻 Passionate about **AI, Machine Learning & Web Development**
-- 🤖 Currently **Building AI-powered applications**
+- 💻 Passionate about **AI, ML & Web Development**
+- 🏎️ Currently **I'm on the Porshess — coding to ride in style!**
 - 🌱 Learning **Deep Learning & NLP**
 - 🎯 Goal: **Become an AI Expert**
 - 🇳🇵 From **Nepal** (Lalitpur)
       
   </td>
-    <td width="40%" style="border:none;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAxNDN2YnVoaXB4ZW5iM3dwZTlwc2o3NzU2Y2dsczZhbmxmbWd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" alt="AI GIF" width="100%">
+    <td width="50%" style="border:none;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRlNHkzdnl5aGpldmxjajJrYW5pZjhtY3QyY2JoMHhuNXJjM3RueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iOFZR9VjYhssM/giphy.gif" alt="AI GIF" width="100%" height="300px" padding="0" margin="0">
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@
   </a>
 </div>
 
-<h5>💡 "Building AI for the future, one project at a time!" 🚀</h5>
+<h5>🏎️ I’m on the Porshess.....</h5>
 
 ---
 
