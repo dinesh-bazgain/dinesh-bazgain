@@ -27,7 +27,7 @@
       
   </td>
     <td width="45%" style="border:none;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRlNHkzdnl5aGpldmxjajJrYW5pZjhtY3QyY2JoMHhuNXJjM3RueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iOFZR9VjYhssM/giphy.gif" alt="AI GIF" width="100%" height="300px" padding="0" margin="0">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRlNHkzdnl5aGpldmxjajJrYW5pZjhtY3QyY2JoMHhuNXJjM3RueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378iOFZR9VjYhssM/giphy.gif" alt="AI GIF" width="100%" height="250px" padding="0" margin="0">
     </td>
   </tr>
 </table>
