@@ -86,7 +86,7 @@
 
 ### 🔥 Featured Projects
 - 🚀 [**Face Recognition System**](#) - **Web-based attendance system using AI**
-- 🔥 [**Tic Tac Toe Game**](https://dinesh-bazgain.github.io/Tic-Tac-Toe-Game/) - **Tic Tac Toe with bot**
+- 🔥 [**Tic Tac Toe Game**](https://dinesh-bazgain.github.io/Tic-Tac-Toe-Game/) - **Enjoy the initial -V of Tic Tac Toe**
 
 ---
 <div align="center">
