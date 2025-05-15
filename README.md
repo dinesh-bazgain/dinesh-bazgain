@@ -86,7 +86,7 @@
 
 ### 🔥 Featured Projects
 - 🚀 [**Face Recognition System**](#) - **Web-based attendance system using AI**
-- 🔥 [**Sentiment Analysis Tool**](#) - **Custom ML model for classifying movie reviews**
+- 🔥 [**Tic Tac Toe Game**](https://dinesh-bazgain.github.io/Tic-Tac-Toe-Game/) - **Tic Tac Toe with bot**
 
 ---
 <div align="center">
@@ -124,7 +124,7 @@
   </a>
 </div>
 
-<h5>🏎️ I’m on the Porshess!!!</h5>
+<h5>🏎️ I’m on the Porshess !!!</h5>
 <h6> I don’t chase dreams — I code them into existence. One bug, one breakthrough, one f*cking idea that flips the goddamn world upside down.  <br/>  🌍🚀💥
 </h6>
 
