@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dinesh-bazgain)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://https://leetcode.com/dinesh_bajgain)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mr-bajgain)
   [![Follow on X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Mr_Bajgain)
   [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dinesh.bazgain@gmail.com)
