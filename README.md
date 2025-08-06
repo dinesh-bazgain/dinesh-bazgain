@@ -86,7 +86,7 @@
 
 ### 🔥 Featured Projects
 - 🚀 [**Face Recognition System**](https://github.com/dinesh-bazgain/face_recognizer) - **GUI-based attendance system using AI**
-- 🔥 [**Tic Tac Toe Game**](https://dinesh-bazgain.github.io/Tic-Tac-Toe-Game/) - **Enjoy the initial -V of Tic Tac Toe**
+- 🔥 [**VedaSamvaad - वेदसंवाद**](https://vedasamvaad-frontend.onrender.com/login/) - **A real time chatting web app.**
 
 ---
 <div align="center">
