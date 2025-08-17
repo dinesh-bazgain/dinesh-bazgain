@@ -53,6 +53,7 @@
   <div style="height: 20%; padding: 5px;">
     <b>Backend: </b>
     <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" style="padding: 5px;" />
   </div>
   
   <div style="height: 20%; padding: 5px;">
@@ -63,10 +64,10 @@
   
   <div style="height: 20%; padding: 5px;">
     <b>Tools & Platforms: </b>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="padding: 5px;" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" style="padding: 5px;" />
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="padding: 5px;" />
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" style="padding: 5px;" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="padding: 5px;" />
   </div>
   
   <div style="height: 20%; padding: 5px;">
