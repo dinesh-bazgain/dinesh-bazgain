@@ -73,13 +73,13 @@
   <div style="height: 20%; padding: 5px;">
     <b>AI Libraries: </b>
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" style="padding: 5px;" />
+<!--     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" style="padding: 5px;" /> -->
     <img src="https://img.shields.io/badge/-Keras-FF3C00?style=flat&logo=keras&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" style="padding: 5px;" />
+<!--     <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" style="padding: 5px;" /> -->
     <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white" style="padding: 5px;" />
     <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" style="padding: 5px;" />
     <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-Scipy-8CA0FF?style=flat&logo=scipy&logoColor=white" style="padding: 5px;" />
+<!--     <img src="https://img.shields.io/badge/-Scipy-8CA0FF?style=flat&logo=scipy&logoColor=white" style="padding: 5px;" /> -->
   </div>
 </div>
 
