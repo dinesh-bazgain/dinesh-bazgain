@@ -18,7 +18,7 @@
     <td width="55%" style="border:none;">
       
 #### 🚀 About Me
-- 🎓 Pursuing **Bachelor's in Computer Application**
+- 🎓 Pursuing **Bachelor'sin Computer Application**
 - 💻 Passionate about **AI, ML & Web Development**
 - 🏎️ Currently **On the Porshess to master AI and ride in style!**
 - 🌱 Learning **Deep Learning & NLP**
