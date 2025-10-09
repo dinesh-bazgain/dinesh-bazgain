@@ -39,47 +39,80 @@
 <div style="text-align: center; margin: 0 auto; width: 80%;">
   <div style="height: 20%; padding: 5px;">
     <b>Programming Languages: </b>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="padding: 5px;" />
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="padding: 5px;" />
+    </a>
   </div>
   
   <div style="height: 20%; padding: 5px;">
     <b>Frontend: </b>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" style="padding: 5px;" />
+    <a href="https://react.dev" target="_blank">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" style="padding: 5px;" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" style="padding: 5px;" />
+    </a>
   </div>
   
   <div style="height: 20%; padding: 5px;">
     <b>Backend: </b>
-    <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" style="padding: 5px;" />
+    <a href="https://www.djangoproject.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://nodejs.org" target="_blank">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" style="padding: 5px;" />
+    </a>
   </div>
   
   <div style="height: 20%; padding: 5px;">
     <b>Database: </b>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="padding: 5px;" />
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="padding: 5px;" />
+    </a>
   </div>
   
   <div style="height: 20%; padding: 5px;">
     <b>Tools & Platforms: </b>
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="padding: 5px;" />
+    <a href="https://github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="padding: 5px;" />
+    </a>
   </div>
   
   <div style="height: 20%; padding: 5px;">
     <b>AI Libraries: </b>
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" style="padding: 5px;" />
-<!--     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" style="padding: 5px;" /> -->
-    <img src="https://img.shields.io/badge/-Keras-FF3C00?style=flat&logo=keras&logoColor=white" style="padding: 5px;" />
-<!--     <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" style="padding: 5px;" /> -->
-    <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" style="padding: 5px;" />
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" style="padding: 5px;" />
-<!--     <img src="https://img.shields.io/badge/-Scipy-8CA0FF?style=flat&logo=scipy&logoColor=white" style="padding: 5px;" /> -->
+    <a href="https://www.tensorflow.org/" target="_blank">
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://keras.io/" target="_blank">
+      <img src="https://img.shields.io/badge/-Keras-FF3C00?style=flat&logo=keras&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://matplotlib.org/" target="_blank">
+      <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" style="padding: 5px;" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" style="padding: 5px;" />
+    </a>
   </div>
 </div>
 
