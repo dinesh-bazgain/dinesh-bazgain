@@ -121,7 +121,7 @@
 ---
 
 ### 🔥 Featured Projects
-- 🚀 [**Face Recognition System**](https://github.com/dinesh-bazgain/face_recognizer) - **GUI-based attendance system using AI**
+- 🚀 [**Face Recognition System**](https://github.com/dinesh-bazgain/faceRecognition_attendance) - **GUI-based attendance system using AI**
 - 🔥 [**VedaSamvaad - वेदसंवाद**](https://vedasamvaad-frontend.onrender.com/) - **A real time chatting web app.**
 
 ---
